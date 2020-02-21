@@ -1,0 +1,14 @@
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\FileGenerator.exe.config
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\FileGenerator.exe
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\FileGenerator.pdb
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\FileGenerator.xml
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.Form1.resources
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.Resources.resources
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.vbproj.GenerateResource.cache
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.exe
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.xml
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.pdb
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.vbprojAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emmanuel\source\repos\FileGenerator\FileGenerator\obj\Debug\FileGenerator.vbproj.CopyComplete
